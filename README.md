@@ -15,8 +15,7 @@
   <a href="https://www.instagram.com/diegomteus/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="logoinstagram" width="107px"><a/>
   <a href="https://www.tiktok.com/@diegomateusdev" target="blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="logo-tiktok" width="95px"><a/>
 
-![diegomateusdev stats](https://github-readme-stats.vercel.app/api?username=diegomateusdev&show_icons=true&theme=midnight-purple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegomateusdev)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegomateusdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegomateusdev&show_icons=true)
