@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react" width="100px"/>
 <br>
 <h3>Social<h3/>
-  <a href="https://www.linkedin.com/in/diego-mateus-785336250/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin" width="100px"><a/>
+  <a href="https://www.linkedin.com/in/diego-mateus-785336250/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin" width="100px"><a/>
   <a href="https://www.facebook.com/diegomateus.silvapereira/" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="logo-facebook" width="100px"><a/>
   <a href="https://www.instagram.com/diegomteus/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="logoinstagram" width="107px"><a/>
   <a href="https://www.tiktok.com/@diegomateusdev" target="blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="logo-tiktok" width="95px"><a/>
